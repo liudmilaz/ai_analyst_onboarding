@@ -1,0 +1,145 @@
+cost_id,year_month,cost_category,amount_eur,description
+beb9fdb3-2796-4b70-beb1-28e22dc8b450,2024-01-01,cost_of_revenue,43624,Cost Of Revenue — Jan 2024
+fd5088cf-163e-4a39-93cc-ac005bd34222,2024-01-01,sales_and_marketing,77386,Sales And Marketing — Jan 2024
+74fca0d8-4ce8-451a-8fe8-cc5ef455453c,2024-01-01,research_development,113471,Research Development — Jan 2024
+8fe45124-7394-4f6e-80a6-4d5341a40532,2024-01-01,general_administrative,40277,General Administrative — Jan 2024
+c86d79d7-35d2-486c-bdf9-cb661b228992,2024-01-01,infrastructure,26769,Infrastructure — Jan 2024
+4cea1100-4b82-4b6a-ad01-0d1910e77423,2024-01-01,cash_balance_eom,4978473,Cash balance end of Jan 2024
+1d220f2e-ce8c-48e8-a794-8b8c40636618,2024-02-01,cost_of_revenue,47253,Cost Of Revenue — Feb 2024
+4727cdef-f5a3-4ab4-a90b-9923ad7c02b8,2024-02-01,sales_and_marketing,82145,Sales And Marketing — Feb 2024
+d9f92f74-bd6d-47c6-992e-ed7512c962b4,2024-02-01,research_development,117610,Research Development — Feb 2024
+e39276a9-f0f6-496b-8121-61b4b6631739,2024-02-01,general_administrative,38707,General Administrative — Feb 2024
+b6dedc4b-3227-4a04-9734-af9ff5bc9b76,2024-02-01,infrastructure,24509,Infrastructure — Feb 2024
+bfd8ba49-03a2-491b-9e3c-3ca74b1a3dd3,2024-02-01,cash_balance_eom,4956249,Cash balance end of Feb 2024
+1f14c230-c956-4a0e-9c8f-9bc0f8fcee64,2024-03-01,cost_of_revenue,46637,Cost Of Revenue — Mar 2024
+42f4bda6-b123-4f3f-a08a-135a41b0ad69,2024-03-01,sales_and_marketing,78254,Sales And Marketing — Mar 2024
+26e4ee0b-e7b9-45a1-bce9-5700d619df18,2024-03-01,research_development,128118,Research Development — Mar 2024
+025848b0-a654-49a5-9cd3-512e5b181ccf,2024-03-01,general_administrative,39890,General Administrative — Mar 2024
+5527d47a-f831-4f56-8cf1-cde682056f09,2024-03-01,infrastructure,27291,Infrastructure — Mar 2024
+80b7e620-e3af-4bc3-8707-6bba04838676,2024-03-01,cash_balance_eom,4932059,Cash balance end of Mar 2024
+0d390357-0042-4dbe-9d22-6dcd097343a3,2024-04-01,cost_of_revenue,49734,Cost Of Revenue — Apr 2024
+0ed4b6cf-bf19-40d3-a988-0c7b975c4a0f,2024-04-01,sales_and_marketing,88281,Sales And Marketing — Apr 2024
+5d5440dd-6d1e-4ddc-90de-8754247dd394,2024-04-01,research_development,118099,Research Development — Apr 2024
+51c03da5-3b67-41c0-a06e-16d04d0eb1cb,2024-04-01,general_administrative,37865,General Administrative — Apr 2024
+831505aa-4b17-4c61-a4e0-593d9361c90c,2024-04-01,infrastructure,24836,Infrastructure — Apr 2024
+be1df29d-1d71-4c68-b539-5c8922a0fce3,2024-04-01,cash_balance_eom,4917244,Cash balance end of Apr 2024
+51f88aff-d8e0-42c7-91a9-2340e031c3e5,2024-05-01,cost_of_revenue,44365,Cost Of Revenue — May 2024
+bd9609a7-3b98-4108-b3b0-3e34c8180ab4,2024-05-01,sales_and_marketing,88898,Sales And Marketing — May 2024
+2938b56a-2d77-40db-ab6d-14d5a804432b,2024-05-01,research_development,115179,Research Development — May 2024
+bafa1d64-6df8-4883-a98f-fa1ec7953870,2024-05-01,general_administrative,42870,General Administrative — May 2024
+20375892-0177-4716-983e-7038be0017b7,2024-05-01,infrastructure,25207,Infrastructure — May 2024
+2b852061-3b96-4708-99d0-9c3b6c8e4a49,2024-05-01,cash_balance_eom,4912725,Cash balance end of May 2024
+f3a050ba-c50e-49ea-81ec-44db6c2fcbd4,2024-06-01,cost_of_revenue,48778,Cost Of Revenue — Jun 2024
+3d9c26fd-e98b-4bc2-8626-45164a8efe3a,2024-06-01,sales_and_marketing,83108,Sales And Marketing — Jun 2024
+3e9c6b8b-53a9-4fc3-8e4a-21ee1886f499,2024-06-01,research_development,128532,Research Development — Jun 2024
+e694e3da-0eab-4b97-acf7-1ce266b3b1de,2024-06-01,general_administrative,43172,General Administrative — Jun 2024
+21a10c76-69d9-4d86-9828-178e315dbfcc,2024-06-01,infrastructure,26486,Infrastructure — Jun 2024
+9fa58488-7ad1-4029-b6e2-4dc20c1d5b6a,2024-06-01,cash_balance_eom,4902649,Cash balance end of Jun 2024
+6c08c16e-db60-4ce1-a488-610b8dad49ad,2024-07-01,cost_of_revenue,45086,Cost Of Revenue — Jul 2024
+b0b0969b-369f-4dab-bbc7-752d3f9bd564,2024-07-01,sales_and_marketing,87856,Sales And Marketing — Jul 2024
+2a96c8fa-2faa-4c24-828b-27635a1d5446,2024-07-01,research_development,121611,Research Development — Jul 2024
+ec3bdb69-8902-4a9d-8ebd-e2339936843b,2024-07-01,general_administrative,41409,General Administrative — Jul 2024
+7ada669a-192c-49e6-ad5b-85436b34f2ea,2024-07-01,infrastructure,26989,Infrastructure — Jul 2024
+c7af7427-5c93-4202-ae0f-9f281ce8db7c,2024-07-01,cash_balance_eom,4907698,Cash balance end of Jul 2024
+b097ce92-923d-4f5e-9bc5-32f0dc019ffd,2024-08-01,cost_of_revenue,46981,Cost Of Revenue — Aug 2024
+0014492b-f5bb-4573-8f06-6a67929d41c1,2024-08-01,sales_and_marketing,86871,Sales And Marketing — Aug 2024
+6f174f98-b246-4f63-a9d9-ef1a841ada1b,2024-08-01,research_development,131154,Research Development — Aug 2024
+a06120c4-c34f-4f51-94e9-3dd079a8dfc3,2024-08-01,general_administrative,38820,General Administrative — Aug 2024
+e2f3a717-d176-4989-b053-2fcb63746268,2024-08-01,infrastructure,26805,Infrastructure — Aug 2024
+86ce78a2-30e1-44f4-9494-1d86f1433973,2024-08-01,cash_balance_eom,4913067,Cash balance end of Aug 2024
+519e325e-b39c-4ad6-8ce7-cec6e4a7b353,2024-09-01,cost_of_revenue,47303,Cost Of Revenue — Sep 2024
+404dbede-1573-4b0e-8309-572b43807fb3,2024-09-01,sales_and_marketing,87241,Sales And Marketing — Sep 2024
+8cc43ca4-5b3f-4500-942c-0380efe75587,2024-09-01,research_development,130551,Research Development — Sep 2024
+098626e9-9482-455d-8ee2-19a8ad567453,2024-09-01,general_administrative,44568,General Administrative — Sep 2024
+dffdb2be-7561-4008-a22b-f7b5637c49a7,2024-09-01,infrastructure,25519,Infrastructure — Sep 2024
+b10f05e1-4800-4a77-b4e9-c0432bd6765a,2024-09-01,cash_balance_eom,4921885,Cash balance end of Sep 2024
+3d3e34e9-1de9-45b3-8140-81c7e07ae76c,2024-10-01,cost_of_revenue,48718,Cost Of Revenue — Oct 2024
+c9a81884-ef8c-472e-a816-dc9fb399e029,2024-10-01,sales_and_marketing,85840,Sales And Marketing — Oct 2024
+be76cedc-657c-49fb-9f86-610da9867ce3,2024-10-01,research_development,128406,Research Development — Oct 2024
+19d6d035-3509-4cd1-980f-ff3516c56fc5,2024-10-01,general_administrative,41272,General Administrative — Oct 2024
+5a4c337e-4715-40bb-bd56-d5af3b4bc464,2024-10-01,infrastructure,26037,Infrastructure — Oct 2024
+05ad5bf1-c889-41d4-872f-2536a488af6a,2024-10-01,cash_balance_eom,4943612,Cash balance end of Oct 2024
+c649b151-52ef-4789-91f1-80f04c2d989c,2024-11-01,cost_of_revenue,46242,Cost Of Revenue — Nov 2024
+6779597a-405e-4aca-8d01-b7f548953b6b,2024-11-01,sales_and_marketing,88486,Sales And Marketing — Nov 2024
+57fd9223-4b57-4b31-bf65-88c0c7174225,2024-11-01,research_development,131636,Research Development — Nov 2024
+e9dd0dae-6448-40c0-8f8c-8e7f81ace2ad,2024-11-01,general_administrative,40608,General Administrative — Nov 2024
+74aedb1d-479f-43a9-bba6-a26148499d29,2024-11-01,infrastructure,26904,Infrastructure — Nov 2024
+ebf6d4b8-18a3-4e1c-9a98-5ecf754ce642,2024-11-01,cash_balance_eom,4969736,Cash balance end of Nov 2024
+130891cd-a080-452f-94a9-f2be9a0d7889,2024-12-01,cost_of_revenue,48665,Cost Of Revenue — Dec 2024
+354d00dd-6ee9-4f4c-b365-683a30433401,2024-12-01,sales_and_marketing,90889,Sales And Marketing — Dec 2024
+cb07685f-d7ed-44a8-ae32-ca8d5b40ae7c,2024-12-01,research_development,121109,Research Development — Dec 2024
+bb44a46e-fb72-4361-b580-1c6e32885d95,2024-12-01,general_administrative,39940,General Administrative — Dec 2024
+c199bb09-1086-4f3b-a647-03133b582884,2024-12-01,infrastructure,27656,Infrastructure — Dec 2024
+4bd5b8e1-c8a0-46f0-845f-5ee7107afbb9,2024-12-01,cash_balance_eom,5009477,Cash balance end of Dec 2024
+9c2be478-816d-44b4-b8de-323127a57ae7,2025-01-01,cost_of_revenue,50342,Cost Of Revenue — Jan 2025
+69147ba3-1567-402f-aa62-3f7cbcaf5e3a,2025-01-01,sales_and_marketing,89582,Sales And Marketing — Jan 2025
+56d7df9f-dda8-47a8-a085-14884922f7bc,2025-01-01,research_development,126943,Research Development — Jan 2025
+e8a1f33c-506a-41af-a669-52bd340218ad,2025-01-01,general_administrative,41758,General Administrative — Jan 2025
+b6d5a4ef-7aee-4fca-9013-1fa8497a2c14,2025-01-01,infrastructure,26623,Infrastructure — Jan 2025
+11cb6afd-fbbe-448e-8367-cb189f55ece4,2025-01-01,cash_balance_eom,5050229,Cash balance end of Jan 2025
+c6c45192-0925-438a-bd5b-ea3404f11fc8,2025-02-01,cost_of_revenue,48542,Cost Of Revenue — Feb 2025
+d5bce479-33a1-4285-b9ed-e0cf4c693e90,2025-02-01,sales_and_marketing,92979,Sales And Marketing — Feb 2025
+2a80cfa7-f0de-40ce-862a-11060ae4c6ca,2025-02-01,research_development,138862,Research Development — Feb 2025
+3f1959af-397a-4505-9db2-a422a77652ed,2025-02-01,general_administrative,39519,General Administrative — Feb 2025
+7a5407b9-9a81-49c3-b37e-207790984f83,2025-02-01,infrastructure,29692,Infrastructure — Feb 2025
+ea451388-556c-47f1-baa6-d9b947f243e8,2025-02-01,cash_balance_eom,5084635,Cash balance end of Feb 2025
+aac4d4f4-4fdc-4ed4-8c9c-44b9a738e638,2025-03-01,cost_of_revenue,54070,Cost Of Revenue — Mar 2025
+123bed9e-6749-401b-b09a-6cca90d0b82f,2025-03-01,sales_and_marketing,88270,Sales And Marketing — Mar 2025
+c7c18584-596d-4aae-8f74-2d8a2ec27ae4,2025-03-01,research_development,137621,Research Development — Mar 2025
+3354e12b-634e-4fac-bd77-ef70119c61df,2025-03-01,general_administrative,43194,General Administrative — Mar 2025
+0891dd16-e819-4e12-acf9-90072f3023c7,2025-03-01,infrastructure,28034,Infrastructure — Mar 2025
+280f62bb-dc7c-457d-9786-de23adea80d6,2025-03-01,cash_balance_eom,5125446,Cash balance end of Mar 2025
+fd99e641-44f7-4796-88ae-9888455c1750,2025-04-01,cost_of_revenue,47283,Cost Of Revenue — Apr 2025
+3ef0828e-e3b5-46a8-9814-024f91896125,2025-04-01,sales_and_marketing,101292,Sales And Marketing — Apr 2025
+a937c284-f483-471c-8603-f3693c42afb6,2025-04-01,research_development,130684,Research Development — Apr 2025
+7b77f08a-b02c-45c0-abeb-bbd20298d69b,2025-04-01,general_administrative,40265,General Administrative — Apr 2025
+97aceb97-e2b0-4c1b-bcae-cd6a9dc4e34d,2025-04-01,infrastructure,29867,Infrastructure — Apr 2025
+1e15167c-7a95-4957-8dc5-1aa112d229ac,2025-04-01,cash_balance_eom,5176055,Cash balance end of Apr 2025
+389a75d8-709c-4302-b0f5-df7b53dd660a,2025-05-01,cost_of_revenue,52303,Cost Of Revenue — May 2025
+c4caf945-c9c0-4636-a837-b050ee05c85b,2025-05-01,sales_and_marketing,103980,Sales And Marketing — May 2025
+2913f383-101e-4133-87b1-b11c6771b49a,2025-05-01,research_development,139846,Research Development — May 2025
+726e2521-820c-44b0-9f46-01da3df3f51a,2025-05-01,general_administrative,40321,General Administrative — May 2025
+46141c9b-b30c-464f-9450-c4578ec0b04b,2025-05-01,infrastructure,31332,Infrastructure — May 2025
+30fe10e9-e7f1-467b-a598-20e8686d8558,2025-05-01,cash_balance_eom,5216273,Cash balance end of May 2025
+b168ea1f-8304-49af-a755-c73f43a5cf73,2025-06-01,cost_of_revenue,48019,Cost Of Revenue — Jun 2025
+3384e4ff-ce91-41c6-9343-e11ca1e20097,2025-06-01,sales_and_marketing,104420,Sales And Marketing — Jun 2025
+c132d665-102b-462d-9c4d-fd76e517429c,2025-06-01,research_development,126993,Research Development — Jun 2025
+8ea931a5-5eb1-4279-b335-e273731151d7,2025-06-01,general_administrative,40041,General Administrative — Jun 2025
+4da999b2-481c-4082-a3e3-6885463f2ba4,2025-06-01,infrastructure,28542,Infrastructure — Jun 2025
+1f20a1f2-724f-4264-96a1-e69f8da555d9,2025-06-01,cash_balance_eom,5284258,Cash balance end of Jun 2025
+ad0f97db-5049-4b1a-84e0-f63564d1e4e5,2025-07-01,cost_of_revenue,55308,Cost Of Revenue — Jul 2025
+1abf8139-c1cd-4cab-bee1-20edfeb4cf7f,2025-07-01,sales_and_marketing,106534,Sales And Marketing — Jul 2025
+de10ae74-1032-405d-b21f-984c4aa3e6f2,2025-07-01,research_development,132008,Research Development — Jul 2025
+ae436193-c0e6-47d2-a91a-456cbab0febe,2025-07-01,general_administrative,40919,General Administrative — Jul 2025
+8c879bbf-bf71-4e58-9848-24d53cdffeed,2025-07-01,infrastructure,29369,Infrastructure — Jul 2025
+497ace89-b561-4327-9565-96d357ce2fde,2025-07-01,cash_balance_eom,5344120,Cash balance end of Jul 2025
+ebfd4f10-9134-4357-9bde-c9f54da2c874,2025-08-01,cost_of_revenue,49775,Cost Of Revenue — Aug 2025
+8ab04c02-f4b4-4f6a-8186-3e7ae946f8e8,2025-08-01,sales_and_marketing,104627,Sales And Marketing — Aug 2025
+3247ab2d-fd02-40f1-bc94-763ee4601b22,2025-08-01,research_development,134801,Research Development — Aug 2025
+4e9c3106-e32a-4c62-8713-63f3022f2b37,2025-08-01,general_administrative,41968,General Administrative — Aug 2025
+87d004b1-392e-468f-8b7e-371988d63315,2025-08-01,infrastructure,32161,Infrastructure — Aug 2025
+85ee81df-cfaf-44c7-837f-cd08769e6831,2025-08-01,cash_balance_eom,5412788,Cash balance end of Aug 2025
+3b09d39a-dc4b-49f1-9a45-6a0f14f7b12b,2025-09-01,cost_of_revenue,49070,Cost Of Revenue — Sep 2025
+6d4c6417-1f69-41c5-ba92-5754d44a532a,2025-09-01,sales_and_marketing,102582,Sales And Marketing — Sep 2025
+97826841-e350-446e-8a1f-324116def7c2,2025-09-01,research_development,146015,Research Development — Sep 2025
+5d5de5cf-a001-44d6-8463-2d2c83d027f0,2025-09-01,general_administrative,45941,General Administrative — Sep 2025
+064971a6-457d-4546-aa26-f84e02178dc9,2025-09-01,infrastructure,30613,Infrastructure — Sep 2025
+ad054770-97cc-49e4-895d-9f5a78723ec1,2025-09-01,cash_balance_eom,5478567,Cash balance end of Sep 2025
+d06192d6-8079-4dbf-9897-d624a5bc3ddd,2025-10-01,cost_of_revenue,56280,Cost Of Revenue — Oct 2025
+3af699ff-e5d4-488e-b72a-5a5de64e6e8e,2025-10-01,sales_and_marketing,103745,Sales And Marketing — Oct 2025
+4f7bbbf7-96e3-4f0d-8909-a27b3350c3a3,2025-10-01,research_development,145331,Research Development — Oct 2025
+4eea9e76-a74e-45b4-9e7a-276cce6051fd,2025-10-01,general_administrative,41173,General Administrative — Oct 2025
+1a8a30c2-1abb-4a58-93bd-a46ed9a8c65d,2025-10-01,infrastructure,29170,Infrastructure — Oct 2025
+24a57289-bf75-4def-81dd-8944df53473f,2025-10-01,cash_balance_eom,5550868,Cash balance end of Oct 2025
+0c8db6ba-dee9-4ce1-8f75-c9778e3e76d5,2025-11-01,cost_of_revenue,56994,Cost Of Revenue — Nov 2025
+ca133fd6-ee59-4a5f-8c55-e4d997267c08,2025-11-01,sales_and_marketing,103787,Sales And Marketing — Nov 2025
+fc4d523b-071e-4be0-a919-9f901795a864,2025-11-01,research_development,132869,Research Development — Nov 2025
+e40a7886-346a-4947-9529-10cd45c598cd,2025-11-01,general_administrative,44670,General Administrative — Nov 2025
+b9d8a4c0-09fe-4a27-aae6-d00a2ca52c90,2025-11-01,infrastructure,31544,Infrastructure — Nov 2025
+09985ffd-5dc7-45de-8228-16d0231aa4fc,2025-11-01,cash_balance_eom,5637004,Cash balance end of Nov 2025
+35848723-97a2-4201-bb93-4caad64c3e89,2025-12-01,cost_of_revenue,50586,Cost Of Revenue — Dec 2025
+5f003905-5bb6-400e-b35a-d33f58af5a49,2025-12-01,sales_and_marketing,110932,Sales And Marketing — Dec 2025
+c054fe39-d05c-4b57-83af-28325b118f82,2025-12-01,research_development,138609,Research Development — Dec 2025
+913d7a96-e2b3-479b-8697-f188f491b185,2025-12-01,general_administrative,45387,General Administrative — Dec 2025
+6b604230-09c9-45cf-aa04-aa0ff6d4d1d6,2025-12-01,infrastructure,32031,Infrastructure — Dec 2025
+29bb15f7-3472-4c28-a2a7-451c2b97fe45,2025-12-01,cash_balance_eom,5723459,Cash balance end of Dec 2025

@@ -1,0 +1,6 @@
+sku,name,type,price_eur,cogs_eur,gross_margin_pct,description,launched_at
+SW-001,Premium Plan,subscription,1900,300,0.842,Monthly subscription: full business management suite with unlimited users and priority support.,2020-01-01
+SW-002,Online Store,software,900,150,0.833,Monthly hosted online store subscription.,2021-06-01
+SW-003,Invoices Pro,software,0,0,0.0,Free invoicing and quoting tool (upsell vehicle).,2019-01-01
+SW-004,Insights Basic,software,0,0,0.0,Free reporting dashboard with standard sales and customer reports (upsell vehicle).,2020-01-01
+SW-005,Insights Pro,software,999,100,0.9,"Advanced reporting: custom dashboards, data export, and priority support.",2021-06-01
