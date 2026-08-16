@@ -98,3 +98,12 @@ phase — the code alone is not.
 
 If something goes sideways, tell your agent "let's back up." The pace is yours
 to set.
+
+## Licence
+
+[MIT](LICENSE) — © 2026 Liudmila Zolotukhina.
+
+Use it, copy it, change it, teach from it. The only requirement is that the
+copyright notice travels with copies.
+
+The dataset in `data/` is synthetic and describes a company that does not exist.
