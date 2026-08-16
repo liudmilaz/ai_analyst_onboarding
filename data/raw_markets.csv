@@ -1,0 +1,9 @@
+country_code,country_name,region,currency,eur_fx,launch_year,vat_rate
+DE,Germany,Western Europe,EUR,1.0,2012,0.19
+GB,United Kingdom,Western Europe,GBP,1.16279,2012,0.2
+FR,France,Western Europe,EUR,1.0,2014,0.2
+BR,Brazil,Americas,BRL,0.18182,2013,0.0
+US,United States,Americas,USD,0.92593,2016,0.0
+PL,Poland,Eastern Europe,PLN,0.23256,2015,0.23
+IT,Italy,Western Europe,EUR,1.0,2016,0.22
+ES,Spain,Western Europe,EUR,1.0,2017,0.21
